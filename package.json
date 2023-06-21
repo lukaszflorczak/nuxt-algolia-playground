@@ -12,6 +12,6 @@
     "@nuxtjs/supabase": "0.3.0"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "nuxt": "3.4.3"
   }
 }
